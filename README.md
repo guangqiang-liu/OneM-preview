@@ -1,6 +1,9 @@
 # OneM-preview
 **纯ReactNative项目OneM中的页面效果图预览表**
 
+# oneM代码仓库地址
+[https://github.com/guangqiang-liu/OneM](https://github.com/guangqiang-liu/OneM)
+
 # Picture模块
 ![pic](http://ovyjkveav.bkt.clouddn.com/17-10-20/76939345.jpg)
 ![pic](http://ovyjkveav.bkt.clouddn.com/17-10-20/54659012.jpg)
